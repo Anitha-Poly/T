@@ -1,0 +1,14 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "open http://localhost:9099 & httpster -p 9099"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "httpster": "^1.2.1"
+  }
+}
